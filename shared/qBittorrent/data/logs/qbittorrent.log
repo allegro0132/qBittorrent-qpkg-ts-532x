@@ -1,0 +1,50 @@
+(N) 2020-09-18T22:13:29 - qBittorrent v4.1.5 started
+(I) 2020-09-18T22:13:31 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2020-09-18T22:13:31 - Peer ID: -qB4150-
+(N) 2020-09-18T22:13:31 - HTTP User-Agent is 'qBittorrent/4.1.5'
+(I) 2020-09-18T22:13:31 - DHT support [ON]
+(I) 2020-09-18T22:13:31 - Local Peer Discovery support [ON]
+(I) 2020-09-18T22:13:31 - PeX support [ON]
+(I) 2020-09-18T22:13:31 - Anonymous mode [OFF]
+(I) 2020-09-18T22:13:31 - Encryption support [ON]
+(I) 2020-09-18T22:13:31 - Embedded Tracker [OFF]
+(I) 2020-09-18T22:13:31 - UPnP / NAT-PMP support [ON]
+(W) 2020-09-18T22:13:31 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2020-09-18T22:13:31 - Using built-in Web UI.
+(N) 2020-09-18T22:13:31 - Web UI translation for selected locale (en_US) has been successfully loaded.
+(N) 2020-09-18T22:13:31 - Web UI: Now listening on IP: *, port: 8080
+(I) 2020-09-18T22:13:31 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2020-09-18T22:13:31 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2020-09-18T22:13:31 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2020-09-18T22:13:31 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2020-09-18T22:13:31 - External IP: 172.104.86.42
+(I) 2020-09-18T22:13:32 - UPnP / NAT-PMP support [OFF]
+(N) 2020-09-18T22:58:51 - qBittorrent v4.1.5 started
+(N) 2020-09-18T22:58:51 - qBittorrent v4.1.5 started
+(I) 2020-09-18T22:58:51 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2020-09-18T22:58:51 - Peer ID: -qB4150-
+(N) 2020-09-18T22:58:51 - HTTP User-Agent is 'qBittorrent/4.1.5'
+(I) 2020-09-18T22:58:51 - DHT support [ON]
+(I) 2020-09-18T22:58:51 - Local Peer Discovery support [ON]
+(I) 2020-09-18T22:58:51 - PeX support [ON]
+(I) 2020-09-18T22:58:51 - Anonymous mode [OFF]
+(I) 2020-09-18T22:58:51 - Encryption support [ON]
+(I) 2020-09-18T22:58:51 - Embedded Tracker [OFF]
+(I) 2020-09-18T22:58:51 - UPnP / NAT-PMP support [ON]
+(W) 2020-09-18T22:58:51 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2020-09-18T22:58:51 - Using built-in Web UI.
+(N) 2020-09-18T22:58:51 - Web UI translation for selected locale (en_US) has been successfully loaded.
+(N) 2020-09-18T22:58:51 - Web UI: Now listening on IP: *, port: 6363
+(I) 2020-09-18T22:58:51 - System network status changed to ONLINE
+(I) 2020-09-18T22:58:51 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2020-09-18T22:58:51 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2020-09-18T22:58:51 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2020-09-18T22:58:51 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2020-09-18T22:58:52 - External IP: 172.104.86.42
+(N) 2020-09-18T22:59:45 - WebAPI login success. IP: ::ffff:192.168.139.32
+(N) 2020-09-18T22:59:58 - WebAPI login success. IP: ::ffff:192.168.139.32
+(W) 2020-09-18T23:04:30 -  is not a valid IP address and was rejected while applying the list of banned addresses.
+(I) 2020-09-18T23:04:30 - DHT support [OFF]
+(W) 2020-09-18T23:04:30 - Restart is required to toggle PeX support
+(I) 2020-09-18T23:04:30 - Local Peer Discovery support [OFF]
+(N) 2020-09-18T23:04:30 - Web UI: Now listening on IP: *, port: 6363
